@@ -1,5 +1,9 @@
 # AI_to_windows_word_to_md
 
+![AI_to_windows_word_to_md banner](assets/banner.svg)
+
+[Main project: windows_word_to_md](https://github.com/sockerch/windows_word_to_md)
+
 ## 中文介绍
 
 这是一个通过 Codex 协作完成的项目说明仓库。
@@ -8,7 +12,7 @@
 
 这个仓库不保存主程序源码，而是保存本项目的核心提示词与说明。也就是说，这里的“代码”就是提示词本身，记录了这个工具是如何一步步被提出、生成、修复和发布出来的。
 
-主项目仓库：
+关联主项目仓库：
 
 [windows_word_to_md](https://github.com/sockerch/windows_word_to_md)
 
@@ -20,7 +24,7 @@ The goal was simple: build a portable Windows app based on `microsoft/markitdown
 
 This repository does not store the main app source code. Instead, it stores the core prompts and notes behind the project. In that sense, the "code" here is the prompt itself, showing how the tool was requested, generated, fixed, and published step by step.
 
-Main project repository:
+Related main project repository:
 
 [windows_word_to_md](https://github.com/sockerch/windows_word_to_md)
 

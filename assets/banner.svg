@@ -1,0 +1,27 @@
+<svg width="1200" height="480" viewBox="0 0 1200 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="64" y1="48" x2="1128" y2="432" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14213D"/>
+      <stop offset="1" stop-color="#2A9D8F"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="480" rx="28" fill="url(#bg)"/>
+  <circle cx="1040" cy="96" r="120" fill="white" fill-opacity="0.08"/>
+  <circle cx="962" cy="402" r="168" fill="white" fill-opacity="0.06"/>
+  <rect x="74" y="86" width="394" height="306" rx="24" fill="white" fill-opacity="0.96"/>
+  <text x="110" y="148" fill="#14213D" font-size="28" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Prompt → Build → Publish</text>
+  <rect x="110" y="176" width="184" height="42" rx="12" fill="#14213D"/>
+  <text x="150" y="204" fill="white" font-size="24" font-family="Segoe UI, Arial, sans-serif">Prompt</text>
+  <path d="M306 197H354" stroke="#2A9D8F" stroke-width="8" stroke-linecap="round"/>
+  <path d="M342 183L356 197L342 211" stroke="#2A9D8F" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="110" y="236" width="184" height="42" rx="12" fill="#2A9D8F"/>
+  <text x="161" y="264" fill="white" font-size="24" font-family="Segoe UI, Arial, sans-serif">Codex</text>
+  <path d="M306 257H354" stroke="#F4A261" stroke-width="8" stroke-linecap="round"/>
+  <path d="M342 243L356 257L342 271" stroke="#F4A261" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="110" y="296" width="184" height="42" rx="12" fill="#F4A261"/>
+  <text x="158" y="324" fill="white" font-size="24" font-family="Segoe UI, Arial, sans-serif">App</text>
+  <text x="534" y="174" fill="white" font-size="52" font-weight="700" font-family="Segoe UI, Arial, sans-serif">AI_to_windows_word_to_md</text>
+  <text x="534" y="228" fill="#EAF7F6" font-size="24" font-family="Segoe UI, Arial, sans-serif">A bilingual prompt repository for a Codex-built Windows app.</text>
+  <text x="534" y="266" fill="#EAF7F6" font-size="24" font-family="Segoe UI, Arial, sans-serif">It links the idea, the prompts, and the published result.</text>
+  <rect x="534" y="316" width="282" height="56" rx="14" fill="white"/>
+  <text x="575" y="352" fill="#14213D" font-size="26" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Prompt Repository</text>
